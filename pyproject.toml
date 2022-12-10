@@ -9,6 +9,7 @@ packages = [{include = "advent_of_code_2022"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 anytree = "^2.8.0"
+numpy = "^1.23.5"
 
 
 [build-system]
